@@ -11,13 +11,13 @@ This project was create with [TypeScript](https://www.typescriptlang.org/). You 
 To run this project in development mode, you will need to have a basic environment with [NodeJS 12+](https://nodejs.org/en/download/) installed. To use the database, you will need to install the dependencies and run:
 
 ```
-knex:migrate
+yarn knex:migrate
 ```
 
 and
 
 ```
-knex:seed
+yarn knex:seed
 ```
 
 ## Avaliable Scripts
