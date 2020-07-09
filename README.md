@@ -1,8 +1,8 @@
-# codefolio | ecodev backend
+# application | ECODEV - BACKEND
 
 ## About This Project
 
-This project contains just only part of the **[ECODEV PROJECT](https://github.com/coderamos/codefolio-ecodev)** application.
+This project contains just only part of the **[ECODEV PROJECT](https://github.com/coderamos/application-ecodev-frontend)** application.
 
 This project was create with [TypeScript](https://www.typescriptlang.org/). You can learn more in the [TypeScript documentation](https://www.typescriptlang.org/docs/home.html). To learn NodeJS, check out the [NodeJS documentation](https://nodejs.org/en/docs/).
 
